@@ -1,0 +1,5 @@
+name: TrapChestLoot
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Adds one-time gun and modded ore loot to trapped chests.
